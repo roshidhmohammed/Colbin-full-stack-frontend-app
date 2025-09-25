@@ -47,6 +47,7 @@ _Below are the instructions to run the complete project._
 
 5. Add the `.env` variables attached in the technical documentation
    ```
+   VITE_SERVER_URL=""
    ```
 
 6. Run the command below to start the project
@@ -72,6 +73,7 @@ _Below are the instructions to run the complete project._
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
